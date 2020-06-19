@@ -1,0 +1,16 @@
+dmesh logs kernel and H/W failulers
+Kern.logs for kernel related logs 
+
+it can be used for prediction hw failure (said by Quanta)
+edac-utils-0.16-16.el7.x86_64.rpm
+sysfsutils-2.1.0-16.el7.x86_64.rpm
+
+sysdig for security related utilities
+
+Also according to this document,
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/migration_planning_guide/chap-red_hat_enterprise_linux-migration_planning_guide-changes_to_packages_functionality_and_support#sect-Red_Hat_Enterprise_Linux-Migration_Planning_Guide-Deprecated_Packages
+ 
+edac-utils and mcelog  are deprecated and instead rasdaemon is recommended as of Red Hat Enterprise Linux 7.
+ 
+Does Quanta still suggest we use these deprecated packages?
+If we plan to use rasdaemon, do we get similar logs?
