@@ -1,0 +1,8 @@
+May 11 14:58:27 master0 kernel: mce: [Hardware Error]: Machine check events logged
+May 11 14:58:27 master0 kernel: EDAC skx MC3: HANDLING MCE MEMORY ERROR
+May 11 14:58:27 master0 kernel: EDAC skx MC3: CPU 10: Machine Check Event: 0 Bank 8: 9c00004001010090
+May 11 14:58:27 master0 kernel: EDAC skx MC3: TSC 0 
+May 11 14:58:27 master0 kernel: EDAC skx MC3: ADDR 1b2f96bdc0 
+May 11 14:58:27 master0 kernel: EDAC skx MC3: MISC 200009c4a0001086 
+May 11 14:58:27 master0 kernel: EDAC skx MC3: PROCESSOR 0:50654 TIME 1589180307 SOCKET 1 APIC 20
+May 11 14:58:27 master0 kernel: EDAC MC3: 1 CE memory read error on CPU_SrcID#1_MC#1_Chan#0_DIMM#0 (channel:0 slot:0 page:0x1b2f96b offset:0xdc0 grain:32 syndrome:0x0 -  err_code:0101:0090 socket:1 imc:1 rank:0 bg:1 ba:1 row:15be6 col:2f8)

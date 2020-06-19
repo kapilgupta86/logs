@@ -1,0 +1,566 @@
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200009c480001086 ADDR 1294160dc0 
+TIME 1588842158 Thu May  7 17:02:38 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c2a7e01086 ADDR 12dc92c940 
+TIME 1588843372 Thu May  7 17:22:52 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200009c4a0001086 ADDR 1ada5705c0 
+TIME 1588850328 Thu May  7 19:18:48 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c280001086 ADDR 1290504140 
+TIME 1588855362 Thu May  7 20:42:42 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200009c487e01086 ADDR 1a9c129dc0 
+TIME 1588862057 Thu May  7 22:34:17 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200009c4a7e01086 ADDR 1adc9541c0 
+TIME 1588867873 Fri May  8 00:11:13 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c2a7c01086 ADDR 1addd641c0 
+TIME 1588868458 Fri May  8 00:20:58 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c287e01086 ADDR 1addd79dc0 
+TIME 1588870949 Fri May  8 01:02:29 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c287e01086 ADDR 1a975341c0 
+TIME 1588875493 Fri May  8 02:18:13 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900004000400086 ADDR 1a90908540 
+TIME 1588876737 Fri May  8 02:38:57 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 2e7147b31a53b8 
+ADDR 1a90908540 
+TIME 1588876737 Fri May  8 02:38:57 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900004000400086 ADDR 1ad3d78540 
+TIME 1588878154 Fri May  8 03:02:34 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 2e741d58b0e7b0 
+ADDR 1ad3d78540 
+TIME 1588878154 Fri May  8 03:02:34 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Running trigger `dimm-error-trigger'
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200009c487e01086 ADDR 1ade1305c0 
+TIME 1588880407 Fri May  8 03:40:07 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c280201086 ADDR 12de57e5c0 
+TIME 1588895175 Fri May  8 07:46:15 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c280001086 ADDR 1adc1141c0 
+TIME 1588900068 Fri May  8 09:07:48 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c280001086 ADDR 1ad61241c0 
+TIME 1588900511 Fri May  8 09:15:11 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200005c2a0001086 ADDR 1292d46d40 
+TIME 1588911994 Fri May  8 12:26:34 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900200020000086 ADDR 136fd60dc0 
+TIME 1588924563 Fri May  8 15:56:03 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 2ed0f93f40098e 
+ADDR 136fd60dc0 
+TIME 1588924563 Fri May  8 15:56:03 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900000000000086 ADDR 136fd7b540 
+TIME 1588924563 Fri May  8 15:56:03 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 2ed0f950822168 
+ADDR 136fd7b540 
+TIME 1588924563 Fri May  8 15:56:03 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900000000000086 ADDR 1291d3d540 
+TIME 1589178635 Mon May 11 14:30:35 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 30cd5701c5f83c 
+ADDR 1291d3d540 
+TIME 1589178636 Mon May 11 14:30:36 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900000000000086 ADDR 12d295b540 
+TIME 1589179999 Mon May 11 14:53:19 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 30d0116aec4486 
+ADDR 12d295b540 
+TIME 1589179999 Mon May 11 14:53:19 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900200020000086 ADDR 12d790c940 
+TIME 1589180104 Mon May 11 14:55:04 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 30d04721e2c060 
+ADDR 12d790c940 
+TIME 1589180104 Mon May 11 14:55:04 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 15 
+MISC 900200020000086 ADDR 12d794c940 
+TIME 1589180104 Mon May 11 14:55:04 2020
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER MS_CHANNEL0_ERR
+Transaction: Memory scrubbing error
+MemCtrl: Corrected patrol scrub error
+STATUS 8c000040000800c0 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 0 BANK 1 TSC 30d0474a9507b8 
+ADDR 12d794c940 
+TIME 1589180104 Mon May 11 14:55:04 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNELunspecified_ERR
+Transaction: Memory read error
+STATUS 940000000000009f MCGSTATUS 0
+MCGCAP 7000c14 APICID 0 SOCKETID 0 
+PPIN 246bb95cf7904781
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
+Hardware event. This is not a software error.
+MCE 0
+CPU 10 BANK 8 
+MISC 200009c4a0001086 ADDR 1b2f96bdc0 
+TIME 1589180307 Mon May 11 14:58:27 2020
+MCG status:
+MCi status:
+Corrected error
+Error enabled
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+M2M: MscodDataRdErr
+STATUS 9c00004001010090 MCGSTATUS 0
+MCGCAP 7000c14 APICID 20 SOCKETID 1 
+PPIN 24771b3863305d84
+MICROCODE 200005e
+CPUID Vendor Intel Family 6 Model 85
